@@ -3,10 +3,10 @@
 <head> <title>佐々木崇元 / Takayuki Sasaki</title> 
 <meta charset='UTF-8' /> 
 <meta content='TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)' name='generator' /> 
-<link rel='stylesheet' type='text/css' href='index.css' /> 
-<!--  for beautifying  --><link rel='stylesheet' type='text/css' href='site.css' /> 
-<script type='text/x-mathjax-config'> MathJax.Hub.Config({ extensions: ["tex2jax.js"], jax: ["input/TeX", "output/HTML-CSS"], tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], displayMath: [ ['$$','$$'], ["\\[","\\]"] ], processEscapes: true }, "HTML-CSS": { availableFonts: ["TeX"] } }); </script>  
-<script src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML' type='text/javascript'></script> 
+<link href='index.css' rel='stylesheet' type='text/css' /> 
+<!--  for beautifying  --><link href='site.css' rel='stylesheet' type='text/css' /> 
+ <script src='https://polyfill.io/v3/polyfill.min.js?features=es6'></script>  
+<script src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js' id='MathJax-script'></script>  
 <script src='https://www.googletagmanager.com/gtag/js?id=G-LDSLK1TRNF'></script>  
 <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-LDSLK1TRNF'); </script>  
 </head><body>
@@ -21,13 +21,13 @@
 
 <h2 class='titleHead'>佐々木崇元 / Takayuki Sasaki</h2>
 <div class='author'><span class='rm-lmr-12'>NTT コンピュータ&amp;データサイエンス研究所　研究員</span></div><br />
-<div class='date'><span class='rm-lmr-12'>更新日: 2022年2月22日</span></div>
+<div class='date'><span class='rm-lmr-12'>更新日: 2022年2月22日 v0.1</span></div>
 </div>
                                                                      
 
                                                                      
 <h3 class='sectionHead'><span class='titlemark'>1   </span> <a id='x1-10001'></a>自己紹介</h3>
-<p><img alt='PIC' src='img/face.png' style='width:39.52%' />
+<p><img src='img/face.png' alt='PIC' style='width:39.52%' />
 </p> 
 <p>   1987年大阪生まれ、大学院卒業まで大阪に居住。 吹奏楽と数学に明け暮れる大学生活。
 夏期インターンシップでNTTコミュニケーション科学基礎研究所（神奈川県厚木市）に行き，自由な気風と高い研究レベルに憧れて就職を決意。
@@ -63,23 +63,15 @@
 <p>   そこでスパース性の新しい正則化関数である尖星準ノルムや，非凸型低ランク正則化関数の加重核型ノルムを用いることで，
 信号のスパース性/低ランク性をより柔軟に定式化します。 また，これら正則化関数を用いた最適化問題を解く鍵となる近接写像について，高速な計算方法を検討します。
 </p> 
-<p>   例えば全変動(Total Variation;TV)を尖星準ノルムにより拡張した尖星全変動(Pointed Star Total
-Variation; PSTV)による正則化問題は、以下の数式で表されます。
+<p>   例えば全変動(Total Variation;TV)を尖星準ノルムにより拡張した尖星全変動(Pointed
+Star Total Variation; PSTV)による正則化問題は、以下の数式で表されます。 \[ \min _{\mathbf{x}\in \mathbb{R}^N} \dfrac{1}{2} \| \mathbf{y} - \mathbf{Ax} \|_2^2 + \Omega _{\mathbf{w}}( \mathbf{Dx} ) \]
+ここで\(\Omega _{\mathbf{w}}( \mathbf{x} )\)は尖星準ノルムで、重みベクトル\(\mathbf{w} \)と、 \(\mathbf{x}\)の各要素の絶対値を降順に並べたベクトル\( |\mathbf{x} |_{\downarrow }\)との 内積として定義されます。 \[ \Omega _{\mathbf{w}}( \mathbf{x} ) = \langle \mathbf{w}, | \mathbf{x} |_{\downarrow } \rangle \]
+尖星準ノルムはL1ノルムとL0ノルムの拡張であり、L1ノルムよりも強い正則化性能を持ちながらL0ノルム制約問題よりも高速に最適化問題が解けるという性質があります。
                                                                      
 
                                                                      
 </p> 
-   
-<center class='math-display'>
-<img alt='     1         2
-minN 2∥y − Ax ∥2 + Ωw (Dx  )
-x∈ℝ  ' src='index0x.png' class='math-display' /></center>
-ここで\(\Omega _{\mathbf{w}}( \mathbf{x} )\)は尖星準ノルムで、重みベクトル\(\mathbf{w} \)と、 \(\mathbf{x}\)の各要素の絶対値を降順に並べたベクトル\( |\mathbf{x} |_{\downarrow }\)との 内積として定義されます。
-<center class='math-display'>
-<img alt='Ωw (x) = ⟨w, |x|↓⟩ ' src='index1x.png' class='math-display' /></center>
-尖星準ノルムはL1ノルムとL0ノルムの拡張であり、L1ノルムよりも強い正則化性能を持ちながらL0ノルム制約問題よりも高速に最適化問題が解けるという性質があります。
-<p>   
-尖星全変動を画像正則化関数として用いることで、雑音除去や超解像など様々な画像処理タスクを解くことができます。 <br class='newline' /><img alt='PIC' src='img/denoise.png' style='width:94.84%' />
+<p>   尖星全変動を画像正則化関数として用いることで、雑音除去や超解像など様々な画像処理タスクを解くことができます。 <br class='newline' /><img src='img/denoise.png' alt='PIC' style='width:94.84%' />
 </p> 
 <p>   
 </p> 
@@ -89,7 +81,7 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 グラフは情報量が多いほど詳細に対象を表現できる一方で，表現やデータ処理に使わない冗長な情報は削減されることが望ましいです。
 </p> 
 <p>   そこで核型ノルム正則化に基づいたグラフ単純化処理を施し，グラフの重要な情報をできる限り保ちながら， 情報量を削減する方法を提案します。
-また，上記処理の計算時間上のボトルネックであった特異値閾値処理について，高速な計算方法を提案します。<br class='newline' /><img alt='PIC' src='img/graphSimplify1.png' style='width:94.84%' /><br class='newline' /><img alt='PIC' src='img/graphSimplify2.png' style='width:94.84%' />
+また，上記処理の計算時間上のボトルネックであった特異値閾値処理について，高速な計算方法を提案します。<br class='newline' /><img src='img/graphSimplify1.png' alt='PIC' style='width:94.84%' /><br class='newline' /><img src='img/graphSimplify2.png' alt='PIC' style='width:94.84%' />
 </p> 
 <p>   
 </p> 
@@ -97,12 +89,9 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 <h4 class='likesubsectionHead'><a id='x1-60003'></a>質感映像符号化</h4>
 <p>従来の映像符号化技術は波形の忠実再現を目標として研究開発され，標準化が進められてきました。
 これは大いに成功し，今日のテレビ放送やビデオストリーミングに欠かせない重要技術となっています。
-                                                                     
-
-                                                                     
 </p> 
 <p>   映像符号化の次のステップは，被写体の持つ材質感や場の空気感などを含む，質感の伝送/制御が重要であると考えています。
-質感を伝送/制御するために，信号分解をベース技術とする質感映像符号化方式を提案し， 次世代映像符号化方式に寄与することを目指しています。<br class='newline' /><img alt='PIC' src='img/shitsukan1.jpg' style='width:94.84%' /><br class='newline' /><img alt='PIC' src='img/shitsukan2.png' style='width:94.84%' />
+質感を伝送/制御するために，信号分解をベース技術とする質感映像符号化方式を提案し， 次世代映像符号化方式に寄与することを目指しています。<br class='newline' /><img src='img/shitsukan1.jpg' alt='PIC' style='width:94.84%' /><br class='newline' /><img src='img/shitsukan2.png' alt='PIC' style='width:94.84%' />
 </p> 
 <p>   
 </p> 
@@ -116,6 +105,9 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 </p> 
 
 <h3 class='sectionHead'><span class='titlemark'>5   </span> <a id='x1-80005'></a>職務歴</h3>
+                                                                     
+
+                                                                     
 <ul class='itemize1'>     
 <li class='itemize'>研究員, NTT, 2013 -
 </li>     
@@ -132,9 +124,6 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 
 <ul class='itemize1'>     
 <li class='itemize'>数理最適化
-                                                                     
-
-                                                                     
 </li>     
 <li class='itemize'>スパースモデリング
 </li>     
@@ -151,6 +140,9 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 <h3 class='sectionHead'><span class='titlemark'>7   </span> <a id='x1-100007'></a>受賞</h3>
 <ul class='itemize1'>     
 <li class='itemize'>論文賞<span class='cite'>[<a href='#Xsasaki2017lowrank'>6</a>]</span>, FIT2017, 2018年9月
+                                                                     
+
+                                                                     
 </li>     
 <li class='itemize'>ヤングリサーチャー賞<span class='cite'>[<a href='#Xsasaki2016graph'>8</a>]</span>, FIT2016, 2017年9月
 </li>     
@@ -165,11 +157,8 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 </p> 
 
 <h3 class='sectionHead'><span class='titlemark'>8   </span> <a id='x1-110008'></a>アプリケーション作品</h3>
-                                                                     
-
-                                                                     
 <ul class='itemize1'>     
-<li class='itemize'>360craft, 360写真の球面展開ペーパークラフト作成<br class='newline' /><a href='https://360craft.pythonanywhere.com/'>https://360craft.pythonanywhere.com</a><br class='newline' /><img alt='PIC' src='img/sphere.png' style='width:94.84%' /><br class='newline' /><img alt='PIC' src='img/example.png' style='width:94.84%' /></li></ul>
+<li class='itemize'>360craft, 360写真の球面展開ペーパークラフト作成<br class='newline' /><a href='https://360craft.pythonanywhere.com/'>https://360craft.pythonanywhere.com</a><br class='newline' /><img src='img/sphere.png' alt='PIC' style='width:94.84%' /><br class='newline' /><img src='img/example.png' alt='PIC' style='width:94.84%' /></li></ul>
 <p>   
 </p> 
 
@@ -186,6 +175,9 @@ x∈ℝ  ' src='index0x.png' class='math-display' /></center>
 <span class='bibsp'>   </span></span><a id='Xsasaki2016texture'></a>佐々木崇元，谷田隆一，清水淳，“Texture
 合成符号化における非合成領域決定法の検討”，電子情報通信学会論文誌             D，vol. 99，no. 9，pp.
 865–867，2016，<a href='https://search.ieice.org/bin/summary.php?id=j99-d_9_865'>[link]</a>．
+                                                                     
+
+                                                                     
 </p>    
 <p class='bibitem'><span class='biblabel'>
 [2]
@@ -206,9 +198,6 @@ in <span class='rm-lmri-10x-x-109'>International Technical Conference on Circuit
 [4]
 <span class='bibsp'>   </span></span><a id='Xsasaki2021pointed'></a>佐々木崇元，坂東幸浩，北原正樹，“尖星全変動正則化に基づくグラデーションとエッジ同時制御可能なエッジ保存平滑化”，第36回信号処理シンポジウム講演論文集
 電子情報通信学会信号処理研究専門委員会，2021，pp. 181–186．
-                                                                     
-
-                                                                     
 </p>    
 <p class='bibitem'><span class='biblabel'>
 [5]
@@ -235,6 +224,9 @@ Multiple特異値閾値処理の高速化”，電子情報通信学会技術研
 [9]
 <span class='bibsp'>   </span></span><a id='Xsasaki2015texture'></a>——，“Texture合成符号化における非合成領域決定法の検討”，第30回          画像符号化シンポジウム
 (PCSJ)，2015，pp. 48–49．
+                                                                     
+
+                                                                     
 </p>    
 <p class='bibitem'><span class='biblabel'>
 [10]
@@ -255,9 +247,6 @@ Multiple特異値閾値処理の高速化”，電子情報通信学会技術研
 <p class='bibitem'><span class='biblabel'>
 [13]
 <span class='bibsp'>   </span></span><a id='Xsasaki2011frequency2'></a>——，“周波数スペクトル上スパース性を用いたランダムサンプリングからの音響信号復元”，第5回関西地区信号処理とその応用研究会，2011．
-                                                                     
-
-                                                                     
 </p>    
 <p class='bibitem'><span class='biblabel'>
 [14]
