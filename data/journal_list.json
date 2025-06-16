@@ -1,0 +1,1350 @@
+[
+  {
+    "title": "グラフと信号補間の同時学習に基づく少数チャネル音響信号からの音場再構成",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:kNdYIx-mwKoC",
+    "citation_id": "vUrJ74IAAAAJ:kNdYIx-mwKoC",
+    "authors": "小塚詩穂里， 佐々木崇元， 坂東幸浩， 伊藤弘章， 早瀬和也， 鎌土記良， ...",
+    "publication": "研究報告音声言語情報処理 (SLP) 2025 (7), 1-8, 2025",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2025",
+    "search_metadata": {
+      "id": "6850225e06ca7f884457b0c5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/6b85ff8511e36a20/6850225e06ca7f884457b0c5.json",
+      "created_at": "2025-06-16 13:55:42 UTC",
+      "processed_at": "2025-06-16 13:55:42 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:kNdYIx-mwKoC",
+      "raw_html_file": "https://serpapi.com/searches/6b85ff8511e36a20/6850225e06ca7f884457b0c5.html",
+      "total_time_taken": 2.91
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:kNdYIx-mwKoC"
+    },
+    "citation": {
+      "title": "グラフと信号補間の同時学習に基づく少数チャネル音響信号からの音場再構成",
+      "authors": "小塚詩穂里， 佐々木崇元， 坂東幸浩， 伊藤弘章， 早瀬和也， 鎌土記良， 北原正樹",
+      "publication_date": "2025/2/23",
+      "conference": "研究報告音声言語情報処理 (SLP)",
+      "volume": "2025",
+      "issue": "7",
+      "pages": "1-8",
+      "publisher": "情報処理学会"
+    }
+  },
+  {
+    "title": "Sparse Regularization with Reverse Sorted Sum of Squares via an Unrolled Difference-of-Convex Approach",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:3fE2CSJIrl8C",
+    "citation_id": "vUrJ74IAAAAJ:3fE2CSJIrl8C",
+    "authors": "T Sasaki, K Hayase, M Kitahara, S Ono",
+    "publication": "IEEE Open Journal of Signal Processing 6, 57 - 67, 2025",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2025",
+    "search_metadata": {
+      "id": "685022622f47f8559a1a5e7a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/392ef619c000d764/685022622f47f8559a1a5e7a.json",
+      "created_at": "2025-06-16 13:55:46 UTC",
+      "processed_at": "2025-06-16 13:55:46 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:3fE2CSJIrl8C",
+      "raw_html_file": "https://serpapi.com/searches/392ef619c000d764/685022622f47f8559a1a5e7a.html",
+      "total_time_taken": 1.46
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:3fE2CSJIrl8C"
+    },
+    "citation": {
+      "title": "Sparse Regularization with Reverse Sorted Sum of Squares via an Unrolled Difference-of-Convex Approach",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10840312/",
+      "resources": [
+        {
+          "title": "from ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel8/8782710/9006934/10840312.pdf"
+        }
+      ],
+      "authors": "Takayuki Sasaki, Kazuya Hayase, Masaki Kitahara, Shunsuke Ono",
+      "publication_date": "2025/1/14",
+      "journal": "IEEE Open Journal of Signal Processing",
+      "volume": "6",
+      "pages": "57 - 67",
+      "publisher": "IEEE",
+      "description": "This paper proposes a sparse regularization method with a novel sorted regularization function. Sparse regularization is commonly used to solve underdetermined inverse problems. Traditional sparse regularization functions, such as -norm, suffer from problems like amplitude underestimation and vanishing perturbations. The reverse ordered weighted -norm (ROWL) addresses these issues but introduces new challenges. These include developing an algorithm grounded in theory, not heuristics, reducing computational complexity, enabling the automatic determination of numerous parameters, and ensuring the number of iterations remains feasible. In this study, we propose a novel sparse regularization function called the reverse sorted sum of squares (RSSS) and then construct an unrolled algorithm that addresses both the aforementioned two problems and these four challenges. The core idea of our …",
+      "scholar_articles": [
+        {
+          "title": "Sparse Regularization with Reverse Sorted Sum of Squares via an Unrolled Difference-of-Convex Approach",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=17893249258628159885&btnI=1&hl=en",
+          "authors": "T Sasaki, K Hayase, M Kitahara, S Ono - IEEE Open Journal of Signal Processing, 2025",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:jZkN8mWXUfgJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "Sparse Regularization Based on Reverse Ordered Weighted L1-Norm and Its Application to Edge-Preserving Smoothing",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:0EnyYjriUFMC",
+    "citation_id": "vUrJ74IAAAAJ:0EnyYjriUFMC",
+    "authors": "T Sasaki, Y Bandoh, M Kitahara",
+    "publication": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "cited_by": {
+      "value": 3,
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=ja&cites=976025313419705653",
+      "serpapi_link": "https://serpapi.com/search.json?cites=976025313419705653&engine=google_scholar&hl=ja",
+      "cites_id": "976025313419705653"
+    },
+    "year": "2024",
+    "search_metadata": {
+      "id": "6850225acfa2309a16bc63ec",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/c24d1e7909acd6e7/6850225acfa2309a16bc63ec.json",
+      "created_at": "2025-06-16 13:55:38 UTC",
+      "processed_at": "2025-06-16 13:55:38 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:0EnyYjriUFMC",
+      "raw_html_file": "https://serpapi.com/searches/c24d1e7909acd6e7/6850225acfa2309a16bc63ec.html",
+      "total_time_taken": 1.65
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:0EnyYjriUFMC"
+    },
+    "citation": {
+      "title": "Sparse Regularization Based on Reverse Ordered Weighted L1-Norm and Its Application to Edge-Preserving Smoothing",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10448119/",
+      "authors": "Takayuki Sasaki, Yukihiro Bandoh, Masaki Kitahara",
+      "publication_date": "2024/4/14",
+      "conference": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "pages": "9531-9535",
+      "publisher": "IEEE",
+      "description": "Sparse regularization is being applied to solve indeterminate inverse problems. However, current regularization is unable to manage sparsity and small perturbations at the same time, and does not perform well enough for some applications. In this study, we propose reversed ordered weighted L1-norm regularization (ROWL) that can tolerate small perturbations while well-handling sparsity. Since ROWL can make proximity mapping easy to compute, it is possible to construct an algorithm to find a suboptimal solution to the inverse problem using the proximity splitting method. Using ROWL for image edge-preserving smoothing, allows us to control both edge sharpness and gradation smoothness.",
+      "total_citations": {
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=976025313419705653&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=976025313419705653&engine=google_scholar&hl=en",
+          "cites_id": "976025313419705653"
+        },
+        "table": [
+          {
+            "year": 2024,
+            "citations": 1
+          },
+          {
+            "year": 2025,
+            "citations": 2
+          }
+        ]
+      },
+      "scholar_articles": [
+        {
+          "title": "Sparse Regularization Based on Reverse Ordered Weighted L 1-Norm and Its Application to Edge-Preserving Smoothing",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=976025313419705653&btnI=1&hl=en",
+          "authors": "T Sasaki, Y Bandoh, M Kitahara - ICASSP 2024-2024 IEEE International Conference on …, 2024",
+          "cited_by": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=976025313419705653&as_sdt=5",
+            "serpapi_link": "https://serpapi.com/search.json?cites=976025313419705653&engine=google_scholar&hl=en",
+            "cites_id": "976025313419705653"
+          },
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:Nb0r8tmJiw0J:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "Reverse Sorted Sum of Squares によるスパース正則化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:MXK_kJrjxJIC",
+    "citation_id": "vUrJ74IAAAAJ:MXK_kJrjxJIC",
+    "authors": "佐々木崇元， 早瀬和也， 北原正樹， 小野峻佑",
+    "publication": "第39回 信号処理シンポジウム講演論文集, 2024",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2024",
+    "search_metadata": {
+      "id": "68502263dbb9fff467b5450c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3c0b2ac1299175b7/68502263dbb9fff467b5450c.json",
+      "created_at": "2025-06-16 13:55:47 UTC",
+      "processed_at": "2025-06-16 13:55:47 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:MXK_kJrjxJIC",
+      "raw_html_file": "https://serpapi.com/searches/3c0b2ac1299175b7/68502263dbb9fff467b5450c.html",
+      "total_time_taken": 0.77
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:MXK_kJrjxJIC"
+    },
+    "citation": {
+      "title": "Reverse Sorted Sum of Squares によるスパース正則化",
+      "authors": "佐々木崇元， 早瀬和也， 北原正樹， 小野峻佑",
+      "publication_date": "2024/12",
+      "conference": "第39回 信号処理シンポジウム講演論文集"
+    }
+  },
+  {
+    "title": "［招待講演］グラフ解析と多チャネル音響信号処理の融合に関する基礎検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:8k81kl-MbHgC",
+    "citation_id": "vUrJ74IAAAAJ:8k81kl-MbHgC",
+    "authors": "小塚詩穂理， 佐々木崇元， 伊藤弘章， 鎌土記良",
+    "publication": "電子情報通信学会技術研究報告; 信学技報 124 (no. 318, EA2024-71), 44-49, 2024",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2024",
+    "search_metadata": {
+      "id": "68502264d1a72b702ac5717c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/796d8a391d1054d5/68502264d1a72b702ac5717c.json",
+      "created_at": "2025-06-16 13:55:48 UTC",
+      "processed_at": "2025-06-16 13:55:48 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:8k81kl-MbHgC",
+      "raw_html_file": "https://serpapi.com/searches/796d8a391d1054d5/68502264d1a72b702ac5717c.html",
+      "total_time_taken": 0.77
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:8k81kl-MbHgC"
+    },
+    "citation": {
+      "title": "［招待講演］グラフ解析と多チャネル音響信号処理の融合に関する基礎検討",
+      "authors": "小塚詩穂理， 佐々木崇元， 伊藤弘章， 鎌土記良",
+      "publication_date": "2024/12",
+      "conference": "電子情報通信学会技術研究報告; 信学技報",
+      "volume": "124",
+      "issue": "no. 318, EA2024-71",
+      "pages": "44-49"
+    }
+  },
+  {
+    "title": "スパース正則化関数 Reverse Sorted Sum of Squares を用いた画像線形逆問題の解法",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:5nxA0vEk-isC",
+    "citation_id": "vUrJ74IAAAAJ:5nxA0vEk-isC",
+    "authors": "佐々木崇元， 早瀬和也， 北原正樹， 小野峻佑",
+    "publication": "2024年度画像符号化シンポジウム（PCSJ 2024） 2024年度映像メディア処理シンポジウム …, 2024",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2024",
+    "search_metadata": {
+      "id": "68502265e171b962a57f6cc3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/deeb377c97d2d4b6/68502265e171b962a57f6cc3.json",
+      "created_at": "2025-06-16 13:55:49 UTC",
+      "processed_at": "2025-06-16 13:55:49 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:5nxA0vEk-isC",
+      "raw_html_file": "https://serpapi.com/searches/deeb377c97d2d4b6/68502265e171b962a57f6cc3.html",
+      "total_time_taken": 1.23
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:5nxA0vEk-isC"
+    },
+    "citation": {
+      "title": "スパース正則化関数 Reverse Sorted Sum of Squares を用いた画像線形逆問題の解法",
+      "authors": "佐々木崇元， 早瀬和也， 北原正樹， 小野峻佑",
+      "publication_date": "2024/11/25",
+      "conference": "2024年度画像符号化シンポジウム（PCSJ 2024） 2024年度映像メディア処理シンポジウム（IMPS 2024）",
+      "pages": "150-151"
+    }
+  },
+  {
+    "title": "有向グラフに対するグラフフーリエ変換の計算量削減法の検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:hqOjcs7Dif8C",
+    "citation_id": "vUrJ74IAAAAJ:hqOjcs7Dif8C",
+    "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+    "publication": "2023年度画像符号化シンポジウム（PCSJ 2023） 2023年度映像メディア処理シンポジウム …, 2023",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2023",
+    "search_metadata": {
+      "id": "6850226601289b157a29014d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/25fd1fea0c70bf19/6850226601289b157a29014d.json",
+      "created_at": "2025-06-16 13:55:50 UTC",
+      "processed_at": "2025-06-16 13:55:50 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:hqOjcs7Dif8C",
+      "raw_html_file": "https://serpapi.com/searches/25fd1fea0c70bf19/6850226601289b157a29014d.html",
+      "total_time_taken": 1.79
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:hqOjcs7Dif8C"
+    },
+    "citation": {
+      "title": "有向グラフに対するグラフフーリエ変換の計算量削減法の検討",
+      "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+      "publication_date": "2023/11",
+      "conference": "2023年度画像符号化シンポジウム（PCSJ 2023） 2023年度映像メディア処理シンポジウム（IMPS 2023）",
+      "pages": "16-17"
+    }
+  },
+  {
+    "title": "有向グラフ信号処理のための高速グラフフーリエ変換",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:UebtZRa9Y70C",
+    "citation_id": "vUrJ74IAAAAJ:UebtZRa9Y70C",
+    "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+    "publication": "第38回 信号処理シンポジウム, 2023",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2023",
+    "search_metadata": {
+      "id": "68502268556ce39f1acefdb8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/317bb608eb79d0b5/68502268556ce39f1acefdb8.json",
+      "created_at": "2025-06-16 13:55:52 UTC",
+      "processed_at": "2025-06-16 13:55:52 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:UebtZRa9Y70C",
+      "raw_html_file": "https://serpapi.com/searches/317bb608eb79d0b5/68502268556ce39f1acefdb8.html",
+      "total_time_taken": 0.51
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:UebtZRa9Y70C"
+    },
+    "citation": {
+      "title": "有向グラフ信号処理のための高速グラフフーリエ変換",
+      "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+      "publication_date": "2023/11",
+      "conference": "第38回 信号処理シンポジウム"
+    }
+  },
+  {
+    "title": "Complexity Reduction of Graph Signal Denoising Based on Fast Graph Fourier Transform",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:LkGwnXOMwfcC",
+    "citation_id": "vUrJ74IAAAAJ:LkGwnXOMwfcC",
+    "authors": "T Sasaki, Y Bandoh, M Kitahara",
+    "publication": "2023 IEEE International Conference on Image Processing (ICIP), 1910-1914, 2023",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2023",
+    "search_metadata": {
+      "id": "68502269bd1c20be99895024",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/9c9ca15e9640c792/68502269bd1c20be99895024.json",
+      "created_at": "2025-06-16 13:55:53 UTC",
+      "processed_at": "2025-06-16 13:55:53 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:LkGwnXOMwfcC",
+      "raw_html_file": "https://serpapi.com/searches/9c9ca15e9640c792/68502269bd1c20be99895024.html",
+      "total_time_taken": 0.63
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:LkGwnXOMwfcC"
+    },
+    "citation": {
+      "title": "Complexity Reduction of Graph Signal Denoising Based on Fast Graph Fourier Transform",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10222250/",
+      "authors": "Takayuki Sasaki, Yukihiro Bandoh, Masaki Kitahara",
+      "publication_date": "2023/10/8",
+      "conference": "2023 IEEE International Conference on Image Processing (ICIP)",
+      "pages": "1910-1914",
+      "publisher": "IEEE",
+      "description": "Denoising is one of the most fundamental and important problems in signal processing, and graph signal denoising methods have been actively studied. Several graph signal denoising methods based on mathematical programming require solving linear equations involving Laplacian matrix, which creates problem with computational accuracy and running time. This study proposes a fast and accurate solution of linear equations for denoising based on the fast graph Fourier transform method. Moreover, the proposed method can perform denoising not only on graphs for which the fast graph Fourier transform can be performed, but also on a wide class of graphs with more relaxed conditions, without loss of accuracy. Experiments demonstrate the efficiency of the proposed method and confirm that denoising can be performed up to 167.3 times faster without loss of accuracy.",
+      "scholar_articles": [
+        {
+          "title": "Complexity Reduction of Graph Signal Denoising Based on Fast Graph Fourier Transform",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=1681805354344673151&btnI=1&hl=en",
+          "authors": "T Sasaki, Y Bandoh, M Kitahara - 2023 IEEE International Conference on Image …, 2023",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:f28QJw_5VhcJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "［招待講演］低ランク解析のための高速並列特異値閾値処理",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:Se3iqnhoufwC",
+    "citation_id": "vUrJ74IAAAAJ:Se3iqnhoufwC",
+    "authors": "佐々木崇元",
+    "publication": "電子情報通信学会技術研究報告; 信学技報 123 (SIP-152), 19, 2023",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2023",
+    "search_metadata": {
+      "id": "68502269132583b5d0dd99d7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/b8e39092ba6ea49a/68502269132583b5d0dd99d7.json",
+      "created_at": "2025-06-16 13:55:53 UTC",
+      "processed_at": "2025-06-16 13:55:53 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:Se3iqnhoufwC",
+      "raw_html_file": "https://serpapi.com/searches/b8e39092ba6ea49a/68502269132583b5d0dd99d7.html",
+      "total_time_taken": 0.86
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:Se3iqnhoufwC"
+    },
+    "citation": {
+      "title": "［招待講演］低ランク解析のための高速並列特異値閾値処理",
+      "authors": "佐々木崇元",
+      "publication_date": "2023/7",
+      "conference": "電子情報通信学会技術研究報告; 信学技報",
+      "volume": "123",
+      "issue": "SIP-152",
+      "pages": "19"
+    }
+  },
+  {
+    "title": "高速グラフフーリエ変換に基づくグラフ信号雑音除去の高速化と画像応用に関する一検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:roLk4NBRz8UC",
+    "citation_id": "vUrJ74IAAAAJ:roLk4NBRz8UC",
+    "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+    "publication": "電子情報通信学会技術研究報告; 信学技報 122 (IE-376), 11-16, 2023",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2023",
+    "search_metadata": {
+      "id": "6850226ad08cfe4a5cfd38f3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/70a1da97f191159c/6850226ad08cfe4a5cfd38f3.json",
+      "created_at": "2025-06-16 13:55:54 UTC",
+      "processed_at": "2025-06-16 13:55:54 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:roLk4NBRz8UC",
+      "raw_html_file": "https://serpapi.com/searches/70a1da97f191159c/6850226ad08cfe4a5cfd38f3.html",
+      "total_time_taken": 0.52
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:roLk4NBRz8UC"
+    },
+    "citation": {
+      "title": "高速グラフフーリエ変換に基づくグラフ信号雑音除去の高速化と画像応用に関する一検討",
+      "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+      "publication_date": "2023/2",
+      "conference": "電子情報通信学会技術研究報告; 信学技報",
+      "volume": "122",
+      "issue": "IE-376",
+      "pages": "11-16"
+    }
+  },
+  {
+    "title": "加重核型ノルム正則化に基づくグラフ単純化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:_FxGoFyzp5QC",
+    "citation_id": "vUrJ74IAAAAJ:_FxGoFyzp5QC",
+    "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+    "publication": "第21回 情報科学技術フォーラム (FIT2022), 101-108, 2022",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2022",
+    "search_metadata": {
+      "id": "6850226bf7ae8de3da0b84a8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/a5104d3306ae1251/6850226bf7ae8de3da0b84a8.json",
+      "created_at": "2025-06-16 13:55:55 UTC",
+      "processed_at": "2025-06-16 13:55:55 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:_FxGoFyzp5QC",
+      "raw_html_file": "https://serpapi.com/searches/a5104d3306ae1251/6850226bf7ae8de3da0b84a8.html",
+      "total_time_taken": 0.84
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:_FxGoFyzp5QC"
+    },
+    "citation": {
+      "title": "加重核型ノルム正則化に基づくグラフ単純化",
+      "link": "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2022/data/html/program/pdf/CI-006.pdf",
+      "resources": [
+        {
+          "title": "from ieice.org",
+          "file_format": "PDF",
+          "link": "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2022/data/html/program/pdf/CI-006.pdf"
+        }
+      ],
+      "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+      "publication_date": "2022",
+      "conference": "第21回 情報科学技術フォーラム (FIT2022)",
+      "issue": "3",
+      "pages": "101-108",
+      "description": "地理情報学や画像工学では, 複数の頂点を辺で繋いだグラフに頂点座標が埋め込まれたデータ (以降, 埋め込みグラフあるいは単にグラフ) を取り扱い, 様々な形状データを表現する. グラフの代表例は, 地理情報学であれば海岸線や境界線の情報, 画像工学であれば関心領域やオブジェクト形状の情報である. これらのグラフはその形状により対象情報を表現し, 頂点や辺が密であるほど精細に情報を伝達できる. 一方で過密な頂点や辺を持つグラフは, 実用において様々な問題を引き起こすため, グラフの単純化が必要である. 例えば海岸線情報であれば, 表示装置の解像度や処理粒度以上に密な頂点や辺は, 描画や処理に不要で, 保存領域の圧迫や処理遅延の原因となる. グラフを単純化することで不要な頂点や辺を取り除き, 選別した少ない頂点や辺で形状を近似すれば, 上記問題は解決される.\nグラフ単純化の最も基本的な手法は, 多角形や連続線分の単純化を行う Douglas-Peucker (DP) 法 [1, 2] であり, 地理情報学, 画像工学で広く利用されている. DP 法は近似誤差が減少する …",
+      "scholar_articles": [
+        {
+          "title": "加重核型ノルム正則化に基づくグラフ単純化",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=14832201402416870089&btnI=1&hl=en",
+          "authors": "佐々木崇元， 坂東幸浩， 北原正樹 - IEICE Conferences Archives, 2022",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:ybIbVJeQ1s0J:scholar.google.com/"
+          },
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14832201402416870089",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=14832201402416870089&engine=google_scholar&hl=en",
+            "cluster_id": "14832201402416870089"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "高速グラフフーリエ変換に基づくグラフ信号雑音除去の高速化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:ufrVoPGSRksC",
+    "citation_id": "vUrJ74IAAAAJ:ufrVoPGSRksC",
+    "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+    "publication": "第37回 信号処理シンポジウム, 432-437, 2022",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2022",
+    "search_metadata": {
+      "id": "6850226c3b93e3099e53a42b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/b5b0d06a45fcda12/6850226c3b93e3099e53a42b.json",
+      "created_at": "2025-06-16 13:55:56 UTC",
+      "processed_at": "2025-06-16 13:55:56 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:ufrVoPGSRksC",
+      "raw_html_file": "https://serpapi.com/searches/b5b0d06a45fcda12/6850226c3b93e3099e53a42b.html",
+      "total_time_taken": 1.34
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:ufrVoPGSRksC"
+    },
+    "citation": {
+      "title": "高速グラフフーリエ変換に基づくグラフ信号雑音除去の高速化",
+      "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+      "publication_date": "2022",
+      "conference": "第37回 信号処理シンポジウム",
+      "pages": "432-437",
+      "publisher": "電子情報通信学会信号処理研究専門委員会"
+    }
+  },
+  {
+    "title": "Fast-Parallel Singular Value Thresholding for Many Small Matrices based on Geometric Feature of Singular Values",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:Tyk-4Ss8FVUC",
+    "citation_id": "vUrJ74IAAAAJ:Tyk-4Ss8FVUC",
+    "authors": "T Sasaki, R Tanida, M Kitahara, H Kimata",
+    "publication": "2021 Asia-Pacific Signal and Information Processing Association Annual …, 2021",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2021",
+    "search_metadata": {
+      "id": "6850226ddd2e16eaff9aaa0b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/22bdb5cbe4b74002/6850226ddd2e16eaff9aaa0b.json",
+      "created_at": "2025-06-16 13:55:57 UTC",
+      "processed_at": "2025-06-16 13:55:57 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:Tyk-4Ss8FVUC",
+      "raw_html_file": "https://serpapi.com/searches/22bdb5cbe4b74002/6850226ddd2e16eaff9aaa0b.html",
+      "total_time_taken": 1.29
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:Tyk-4Ss8FVUC"
+    },
+    "citation": {
+      "title": "Fast-Parallel Singular Value Thresholding for Many Small Matrices based on Geometric Feature of Singular Values",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9689491/",
+      "resources": [
+        {
+          "title": "from apsipa.org",
+          "file_format": "PDF",
+          "link": "http://www.apsipa.org/proceedings/2021/pdfs/0000001.pdf"
+        }
+      ],
+      "authors": "Takayuki Sasaki, Ryuichi Tanida, Masaki Kitahara, Hideaki Kimata",
+      "publication_date": "2021/12/14",
+      "conference": "2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+      "pages": "1-8",
+      "publisher": "IEEE",
+      "description": "This paper proposes a singular value thresholding (SVT) method called fast-parallel SVT for many small matrices that is based on the geometric feature of singular values. By discovering the geometric feature of singular values, SVT is expressed in a completely different format from conventional SVT methods. The new format does not require singular value decomposition, which is the calculation bottleneck with conventional SVT methods, so the amount of floating-point calculation can be reduced. The new format can also be described almost linearly, allowing many matrices to be processed in data in parallel. Through an experiment, the proposed method calculated SVT up to 162.84 times faster with higher calculation accuracy than conventional SVT methods.",
+      "scholar_articles": [
+        {
+          "title": "Fast-Parallel Singular Value Thresholding for Many Small Matrices based on Geometric Feature of Singular Values",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=747051190275694143&btnI=1&hl=en",
+          "authors": "T Sasaki, R Tanida, M Kitahara, H Kimata - 2021 Asia-Pacific Signal and Information Processing …, 2021",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:P15qeRkPXgoJ:scholar.google.com/"
+          },
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=747051190275694143",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=747051190275694143&engine=google_scholar&hl=en",
+            "cluster_id": "747051190275694143"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "高速逆数平方根による Fast Multiple 特異値閾値処理の高速化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:zYLM7Y9cAGgC",
+    "citation_id": "vUrJ74IAAAAJ:zYLM7Y9cAGgC",
+    "authors": "佐々木崇元， 谷田隆一， 木全英明",
+    "publication": "電子情報通信学会技術研究報告; 信学技報 120 (SIP-321), 230-234, 2021",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2021",
+    "search_metadata": {
+      "id": "6850226ed3fb8579818204aa",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/76adee469a3ba804/6850226ed3fb8579818204aa.json",
+      "created_at": "2025-06-16 13:55:58 UTC",
+      "processed_at": "2025-06-16 13:55:58 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:zYLM7Y9cAGgC",
+      "raw_html_file": "https://serpapi.com/searches/76adee469a3ba804/6850226ed3fb8579818204aa.html",
+      "total_time_taken": 1.73
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:zYLM7Y9cAGgC"
+    },
+    "citation": {
+      "title": "高速逆数平方根による Fast Multiple 特異値閾値処理の高速化",
+      "link": "https://ken.ieice.org/ken/paper/202101228C18/",
+      "authors": "佐々木崇元， 谷田隆一， 木全英明",
+      "publication_date": "2021/1/14",
+      "conference": "電子情報通信学会技術研究報告; 信学技報",
+      "volume": "120",
+      "issue": "SIP-321",
+      "pages": "230-234",
+      "publisher": "電子情報通信学会",
+      "description": "抄録 (和) 本稿では, 高速逆数平方根による小型多数行列の特異値閾値処理の高速化法を提案する. 小型多数行列の特異値閾値処理の計算時間ボトルネックは逆数平方根計算にあることを見出し, 高速逆数平方根計算により高速化する. また特異値閾値処理の中で唯一平方根を直接使う箇所である平方根差について, 分子の有理化により, 逆数平方根のみで計算可能な形に変形する. 実験により従来の小型多数行列の特異値閾値処理に比べて計算速度が最大 22.9% 向上することを確認する.",
+      "scholar_articles": [
+        {
+          "title": "高速逆数平方根による Fast Multiple 特異値閾値処理の高速化",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=16912611973224451967&btnI=1&hl=en",
+          "authors": "佐々木崇元， 谷田隆一， 木全英明 - 電子情報通信学会技術研究報告; 信学技報, 2021",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:f88PmPuqteoJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "尖星全変動正則化に基づくグラデーションとエッジ同時制御可能なエッジ保存平滑化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:WF5omc3nYNoC",
+    "citation_id": "vUrJ74IAAAAJ:WF5omc3nYNoC",
+    "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+    "publication": "第36回 信号処理シンポジウム, 181-186, 2021",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2021",
+    "search_metadata": {
+      "id": "68502270ac17656bd12405c5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/d5c8d3adf2a4d3fc/68502270ac17656bd12405c5.json",
+      "created_at": "2025-06-16 13:56:00 UTC",
+      "processed_at": "2025-06-16 13:56:00 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:WF5omc3nYNoC",
+      "raw_html_file": "https://serpapi.com/searches/d5c8d3adf2a4d3fc/68502270ac17656bd12405c5.html",
+      "total_time_taken": 1.76
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:WF5omc3nYNoC"
+    },
+    "citation": {
+      "title": "尖星全変動正則化に基づくグラデーションとエッジ同時制御可能なエッジ保存平滑化",
+      "authors": "佐々木崇元， 坂東幸浩， 北原正樹",
+      "publication_date": "2021",
+      "conference": "第36回 信号処理シンポジウム",
+      "pages": "181-186",
+      "publisher": "電子情報通信学会信号処理研究専門委員会"
+    }
+  },
+  {
+    "title": "低ランク最適化のための高速特異値閾値処理の数理",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:IjCSPb-OGe4C",
+    "citation_id": "vUrJ74IAAAAJ:IjCSPb-OGe4C",
+    "authors": "佐々木崇元， 北原正樹， 清水淳",
+    "publication": "第16回 情報科学技術フォーラム(FIT2017), 140-141, 2017",
+    "cited_by": {
+      "value": 1,
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=ja&cites=13543224647705917912",
+      "serpapi_link": "https://serpapi.com/search.json?cites=13543224647705917912&engine=google_scholar&hl=ja",
+      "cites_id": "13543224647705917912"
+    },
+    "year": "2017",
+    "search_metadata": {
+      "id": "6850225db4ab7226096e5f36",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/1d616705e347b02d/6850225db4ab7226096e5f36.json",
+      "created_at": "2025-06-16 13:55:41 UTC",
+      "processed_at": "2025-06-16 13:55:41 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:IjCSPb-OGe4C",
+      "raw_html_file": "https://serpapi.com/searches/1d616705e347b02d/6850225db4ab7226096e5f36.html",
+      "total_time_taken": 1.08
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:IjCSPb-OGe4C"
+    },
+    "citation": {
+      "title": "低ランク最適化のための高速特異値閾値処理の数理",
+      "link": "https://www.ipsj.or.jp/award/9faeag0000004f1r-att/CA-002.pdf",
+      "resources": [
+        {
+          "title": "from ipsj.or.jp",
+          "file_format": "PDF",
+          "link": "https://www.ipsj.or.jp/award/9faeag0000004f1r-att/CA-002.pdf"
+        }
+      ],
+      "authors": "佐々木崇元， 北原正樹， 清水淳",
+      "publication_date": "2017/9/5",
+      "conference": "第16回 情報科学技術フォーラム(FIT2017)",
+      "issue": "1",
+      "pages": "140-141",
+      "description": "データや物理現象に潜在する低ランク性 1 に基づくデータ解析手法 (以降, 低ランクモデリング) が, コンピュータビジョンや画像処理, ゲノムデータ解析などの多くの分野で近年活発に研究されている [1–10]. 低ランクモデリングでは着目した行列の階数 (rank) を最小化する数理計画問題を立式し, この解を求めて所望の解析を実現する.\n関数 rank は不連続で微分不能, 非凸であり, これに基づく計画問題は NP 困難な組合せ最適化となる. このため, rank 関数の代わりに核型ノルムを正則化する緩和アプローチが広く用いられる. 核型ノルムは rank 関数の凸包絡である [11] ため, 核型ノルムを最小化することで間接的に低ランク性を高められる. 核型ノルムを含む最適化問題は Alternating Direction Method of Multipliers (ADMM)[12] 等の 1 次法の反復計算で解を求められ, 核型ノルムの近接写像である特異値閾値処理 (Singular Value Thresholding, 以降 SVT)[3] が繰り返し実行される.",
+      "total_citations": {
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13543224647705917912&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=13543224647705917912&engine=google_scholar&hl=en",
+          "cites_id": "13543224647705917912"
+        },
+        "table": [
+          {
+            "year": 2022,
+            "citations": 1
+          }
+        ]
+      },
+      "scholar_articles": [
+        {
+          "title": "低ランク最適化のための高速特異値閾値処理の数理",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=13543224647705917912&btnI=1&hl=en",
+          "authors": "佐々木崇元， 北原正樹， 清水淳 - 第 16 回情報科学技術フォーラム (FIT), 第 1 分冊, 2017",
+          "cited_by": {
+            "total": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13543224647705917912&as_sdt=5",
+            "serpapi_link": "https://serpapi.com/search.json?cites=13543224647705917912&engine=google_scholar&hl=en",
+            "cites_id": "13543224647705917912"
+          },
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:2HnT3w8z87sJ:scholar.google.com/"
+          },
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13543224647705917912",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=13543224647705917912&engine=google_scholar&hl=en",
+            "cluster_id": "13543224647705917912"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "グラフ信号の局所線形近似によるグラフ形状単純化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:9yKSN-GCB0IC",
+    "citation_id": "vUrJ74IAAAAJ:9yKSN-GCB0IC",
+    "authors": "佐々木崇元， 谷田隆一， 清水淳",
+    "publication": "第 15 回 情報科学技術フォーラム (FIT2016), 1-4, 2016",
+    "cited_by": {
+      "value": 2,
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=ja&cites=6058396518469449480",
+      "serpapi_link": "https://serpapi.com/search.json?cites=6058396518469449480&engine=google_scholar&hl=ja",
+      "cites_id": "6058396518469449480"
+    },
+    "year": "2016",
+    "search_metadata": {
+      "id": "6850225c5c930135ae7e9fae",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/fdfad64ec3279209/6850225c5c930135ae7e9fae.json",
+      "created_at": "2025-06-16 13:55:40 UTC",
+      "processed_at": "2025-06-16 13:55:40 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:9yKSN-GCB0IC",
+      "raw_html_file": "https://serpapi.com/searches/fdfad64ec3279209/6850225c5c930135ae7e9fae.html",
+      "total_time_taken": 0.61
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:9yKSN-GCB0IC"
+    },
+    "citation": {
+      "title": "グラフ信号の局所線形近似によるグラフ形状単純化",
+      "link": "http://www.ipsj.or.jp/10jigyo/fit/fit2016/RI-001.pdf",
+      "resources": [
+        {
+          "title": "from ipsj.or.jp",
+          "file_format": "PDF",
+          "link": "http://www.ipsj.or.jp/10jigyo/fit/fit2016/RI-001.pdf"
+        }
+      ],
+      "authors": "佐々木崇元， 谷田隆一， 清水淳",
+      "publication_date": "2016/9",
+      "conference": "第 15 回 情報科学技術フォーラム (FIT2016)",
+      "issue": "3",
+      "pages": "1-4",
+      "description": "地図や画像における境界線や輪郭線は, 複数の頂点を辺で繋いだグラフとして表現される. 描画や処理に不要な頂点や辺を削減してデータをダウンサイズさせる単純化が広く利用されているが, 多数の分岐点やループを持つ複雑なグラフに対しての適用が困難であった. 本稿では, これら複雑なグラフの単純化方法を提案する. 提案法では頂点の位置情報をグラフ信号と捉え, 局所線形な信号に近似して頂点や辺を間引く手順を用いる. 実験では地図境界データに対し提案法を適用し, その効果を確認する.",
+      "total_citations": {
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6058396518469449480&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6058396518469449480&engine=google_scholar&hl=en",
+          "cites_id": "6058396518469449480"
+        },
+        "table": [
+          {
+            "year": 2017,
+            "citations": 1
+          },
+          {
+            "year": 2022,
+            "citations": 1
+          }
+        ]
+      },
+      "scholar_articles": [
+        {
+          "title": "グラフ信号の局所線形近似によるグラフ形状単純化",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=6058396518469449480&btnI=1&hl=en",
+          "authors": "佐々木崇元， 谷田隆一， 清水淳 - 第 15 回 情報科学技術フォーラム (FIT2016), 第 3 分冊, 2016",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6058396518469449480&as_sdt=5",
+            "serpapi_link": "https://serpapi.com/search.json?cites=6058396518469449480&engine=google_scholar&hl=en",
+            "cites_id": "6058396518469449480"
+          },
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:CLfV54i_E1QJ:scholar.google.com/"
+          },
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6058396518469449480",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=6058396518469449480&engine=google_scholar&hl=en",
+            "cluster_id": "6058396518469449480"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "領域情報符号化における核型ノルム最適化の高速計算法",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:eQOLeE2rZwMC",
+    "citation_id": "vUrJ74IAAAAJ:eQOLeE2rZwMC",
+    "authors": "佐々木崇元， 北原正樹， 清水淳",
+    "publication": "第31回 画像符号化シンポジウム (PCSJ), 140-141, 2016",
+    "cited_by": {
+      "value": 2,
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=ja&cites=8361488461233701790",
+      "serpapi_link": "https://serpapi.com/search.json?cites=8361488461233701790&engine=google_scholar&hl=ja",
+      "cites_id": "8361488461233701790"
+    },
+    "year": "2016",
+    "search_metadata": {
+      "id": "6850225c1f758ab47e045065",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/2e400817467fc35d/6850225c1f758ab47e045065.json",
+      "created_at": "2025-06-16 13:55:40 UTC",
+      "processed_at": "2025-06-16 13:55:40 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:eQOLeE2rZwMC",
+      "raw_html_file": "https://serpapi.com/searches/2e400817467fc35d/6850225c1f758ab47e045065.html",
+      "total_time_taken": 0.64
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:eQOLeE2rZwMC"
+    },
+    "citation": {
+      "title": "領域情報符号化における核型ノルム最適化の高速計算法",
+      "link": "https://scholar.google.com/scholar?cluster=8361488461233701790&hl=en&oi=scholarr",
+      "authors": "佐々木崇元， 北原正樹， 清水淳",
+      "publication_date": "2016",
+      "conference": "第31回 画像符号化シンポジウム (PCSJ)",
+      "pages": "140-141",
+      "total_citations": {
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8361488461233701790&as_sdt=5",
+          "serpapi_link": "https://serpapi.com/search.json?cites=8361488461233701790&engine=google_scholar&hl=en",
+          "cites_id": "8361488461233701790"
+        },
+        "table": [
+          {
+            "year": 2017,
+            "citations": 1
+          },
+          {
+            "year": 2022,
+            "citations": 1
+          }
+        ]
+      },
+      "scholar_articles": [
+        {
+          "title": "領域情報符号化における核型ノルム最適化の高速計算法",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=8361488461233701790&btnI=1&hl=en",
+          "authors": "佐々木崇元， 北原正樹， 清水淳 - 第 31 回 画像符号化シンポジウム (PCSJ2016), 2016",
+          "cited_by": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8361488461233701790&as_sdt=5",
+            "serpapi_link": "https://serpapi.com/search.json?cites=8361488461233701790&engine=google_scholar&hl=en",
+            "cites_id": "8361488461233701790"
+          },
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:nsNcVXT5CXQJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "Texture 合成符号化における非合成領域決定法の検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:u5HHmVD_uO8C",
+    "citation_id": "vUrJ74IAAAAJ:u5HHmVD_uO8C",
+    "authors": "佐々木崇元， 谷田隆一， 清水淳",
+    "publication": "電子情報通信学会論文誌 D 99 (9), 865-867, 2016",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2016",
+    "search_metadata": {
+      "id": "68502272018c48bad90d7fd4",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/ed270716f5b2387e/68502272018c48bad90d7fd4.json",
+      "created_at": "2025-06-16 13:56:02 UTC",
+      "processed_at": "2025-06-16 13:56:02 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:u5HHmVD_uO8C",
+      "raw_html_file": "https://serpapi.com/searches/ed270716f5b2387e/68502272018c48bad90d7fd4.html",
+      "total_time_taken": 1.51
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:u5HHmVD_uO8C"
+    },
+    "citation": {
+      "title": "Texture 合成符号化における非合成領域決定法の検討",
+      "link": "https://search.ieice.org/bin/summary.php?id=j99-d_9_865",
+      "authors": "佐々木崇元， 谷田隆一， 清水淳",
+      "publication_date": "2016/9/1",
+      "journal": "電子情報通信学会論文誌 D",
+      "volume": "99",
+      "issue": "9",
+      "pages": "865-867",
+      "publisher": "The Institute of Electronics, Information and Communication Engineers",
+      "description": "Cartoon-Texture画像分解とTexture合成を用いた符号化方式ではTexture合成に適さない領域もTexture成分に含まれることがある.この領域を検知してTexture成分から除外すれば主観品質を改善可能である.本論文ではTexture成分の性質から当該領域を判別する方法を提案する.",
+      "scholar_articles": [
+        {
+          "title": "Texture 合成符号化における非合成領域決定法の検討",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=1227599097475179179&btnI=1&hl=en",
+          "authors": "佐々木崇元， 谷田隆一， 清水淳 - 電子情報通信学会論文誌 D, 2016",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:qyKZA-BOCREJ:scholar.google.com/"
+          },
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1227599097475179179",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=1227599097475179179&engine=google_scholar&hl=en",
+            "cluster_id": "1227599097475179179"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "コントラスト不変性に基づく着目領域の TV-L1 画像分解高速化",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:u-x6o8ySG0sC",
+    "citation_id": "vUrJ74IAAAAJ:u-x6o8ySG0sC",
+    "authors": "佐々木崇元， 谷田隆一， 清水淳",
+    "publication": "情報科学技術フォーラム講演論文集 14 (3), 235-236, 2015",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2015",
+    "search_metadata": {
+      "id": "685022745e34948f01659d9f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/c3c303b0fbb663c4/685022745e34948f01659d9f.json",
+      "created_at": "2025-06-16 13:56:04 UTC",
+      "processed_at": "2025-06-16 13:56:04 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:u-x6o8ySG0sC",
+      "raw_html_file": "https://serpapi.com/searches/c3c303b0fbb663c4/685022745e34948f01659d9f.html",
+      "total_time_taken": 6.2
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:u-x6o8ySG0sC"
+    },
+    "citation": {
+      "title": "コントラスト不変性に基づく着目領域の TV-L1 画像分解高速化",
+      "link": "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2015/data/pdf/I-017.pdf",
+      "resources": [
+        {
+          "title": "from ieice.org",
+          "file_format": "PDF",
+          "link": "https://www.ieice.org/publications/conference-FIT-DVDs/FIT2015/data/pdf/I-017.pdf"
+        }
+      ],
+      "authors": "佐々木崇元， 谷田隆一， 清水淳",
+      "publication_date": "2015/8/24",
+      "conference": "情報科学技術フォーラム講演論文集",
+      "volume": "14",
+      "issue": "3",
+      "pages": "235-236",
+      "description": "TV-L1 画像分解は入力画像の Cartoon 成分と Texture 成分を良好に分解でき, ノイズ除去やテクスチャ抽出の他, 顔画像認識や色調補正の前処理等に利用されている. この信号分解は輝度勾配の変化量を示す TV ノルムとスパース正則の L1 ノルムから定義される目的関数の最小化により求められるが, 反復演算の収束に多くの計算時間を要する. そこで本研究では, 目的関数がコントラスト変換に関して不変である性質を用いて, TV-L1 画像分解の前後に着目領域の輝度分布に基づくコントラスト変換を行うことで, 着目領域の収束を速める手法を提案する. 実験では自然画像について提案手法を適用し, 効果を確認する.",
+      "scholar_articles": [
+        {
+          "title": "コントラスト不変性に基づく着目領域の TV-L1 画像分解高速化",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=5745696388009229516&btnI=1&hl=en",
+          "authors": "佐々木崇元， 谷田隆一， 清水淳 - IEICE Conferences Archives, 2015",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:zPyIQmzQvE8J:scholar.google.com/"
+          },
+          "versions": {
+            "total": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5745696388009229516",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=5745696388009229516&engine=google_scholar&hl=en",
+            "cluster_id": "5745696388009229516"
+          }
+        },
+        {
+          "title": "I-017 コントラスト不変性に基づく着目領域の TV-L1 画像分解高速化 (I 分野: グラフィクス・画像, 一般論文)",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=2064502256017309161&btnI=1&hl=en",
+          "authors": "佐々木崇元， 谷田隆一， 清水淳 - 情報科学技術フォーラム講演論文集, 2015",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:6X3nF92VphwJ:scholar.google.com/"
+          },
+          "versions": {
+            "total": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2064502256017309161",
+            "serpapi_link": "https://serpapi.com/search.json?cluster=2064502256017309161&engine=google_scholar&hl=en",
+            "cluster_id": "2064502256017309161"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "信号分解と Texture 合成に基づく符号化方式の検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:2osOgNQ5qMEC",
+    "citation_id": "vUrJ74IAAAAJ:2osOgNQ5qMEC",
+    "authors": "佐々木崇元， 谷田隆一， 清水淳",
+    "publication": "電子情報通信学会総合大会講演論文集 2015 (2), 44, 2015",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2015",
+    "search_metadata": {
+      "id": "6850227ad3fb8576ebac3a09",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/a3b4668b21013345/6850227ad3fb8576ebac3a09.json",
+      "created_at": "2025-06-16 13:56:10 UTC",
+      "processed_at": "2025-06-16 13:56:10 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:2osOgNQ5qMEC",
+      "raw_html_file": "https://serpapi.com/searches/a3b4668b21013345/6850227ad3fb8576ebac3a09.html",
+      "total_time_taken": 1.24
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:2osOgNQ5qMEC"
+    },
+    "citation": {
+      "title": "信号分解と Texture 合成に基づく符号化方式の検討",
+      "link": "https://cir.nii.ac.jp/crid/1571698602852893312",
+      "authors": "佐々木崇元， 谷田隆一， 清水淳",
+      "publication_date": "2015/2/24",
+      "conference": "電子情報通信学会総合大会講演論文集",
+      "volume": "2015",
+      "issue": "2",
+      "pages": "44",
+      "publisher": "一般社団法人電子情報通信学会",
+      "description": "D-11-44 信号分解とTexture合成に基づく符号化方式の検討(D-11.画像工学,一般セッション) | CiNii Research CiNii 国立情報学研究所 学術情報ナビゲータ[サイニィ] 詳細へ移動 検索フォームへ移動 論文・データをさがす 大学図書館の本をさがす 日本の博士論文をさがす English 検索 タイトル 人物 /団体名 所属機関 ISSN DOI 期間 ~ 本文リンク 本文リンクあり データソース JaLC IRDB Crossref DataCite NDLサーチ NDLデジコレ(旧NII-ELS) RUDA JDCat NINJAL CiNii Articles CiNii Books DBpedia Nikkei BP KAKEN Integbio MDR PubMed LSDB Archive 極地研ADS 極地研学術DB OpenAIRE 公共データカタログ ムーンショット型研究開発事業 すべて 研究データ 論文 本 博士論文 プロジェクト [2024年12月9日更新]CiNii Dissertations及びCiNii BooksのCiNii Researchへの 統合について CiNii Research自動翻訳機能(試行版)をCiNii Labsにて公開しました D-11-44 信号 分解とTexture合成に基づく符号化方式の検討(D-11.画像工学,一般セッション) 佐々木崇元 日本…",
+      "scholar_articles": [
+        {
+          "title": "D-11-44 信号分解と Texture 合成に基づく符号化方式の検討 (D-11. 画像工学, 一般セッション)",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=8187953774584103847&btnI=1&hl=en",
+          "authors": "佐々木崇元， 谷田隆一， 清水淳 - 電子情報通信学会総合大会講演論文集, 2015",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:p4Nni5N0oXEJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "Texture合成符号化における非合成領域決定法の検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:YsMSGLbcyi4C",
+    "citation_id": "vUrJ74IAAAAJ:YsMSGLbcyi4C",
+    "authors": "佐々木崇元， 谷田隆一， 清水淳",
+    "publication": "第30回 画像符号化シンポジウム (PCSJ), 48-49, 2015",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2015",
+    "search_metadata": {
+      "id": "6850227b55cfe1a9ce5f9d37",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/41fccd37c1ffe8b6/6850227b55cfe1a9ce5f9d37.json",
+      "created_at": "2025-06-16 13:56:11 UTC",
+      "processed_at": "2025-06-16 13:56:11 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:YsMSGLbcyi4C",
+      "raw_html_file": "https://serpapi.com/searches/41fccd37c1ffe8b6/6850227b55cfe1a9ce5f9d37.html",
+      "total_time_taken": 0.57
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:YsMSGLbcyi4C"
+    },
+    "citation": {
+      "title": "Texture合成符号化における非合成領域決定法の検討",
+      "authors": "佐々木崇元， 谷田隆一， 清水淳",
+      "publication_date": "2015",
+      "conference": "第30回 画像符号化シンポジウム (PCSJ)",
+      "pages": "48-49"
+    }
+  },
+  {
+    "title": "スパースペナルティを課した信号識別モデルによるスパース周期信号分解",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:UeHWp8X0CEIC",
+    "citation_id": "vUrJ74IAAAAJ:UeHWp8X0CEIC",
+    "authors": "佐々木崇元， 中静真， 飯國洋二",
+    "publication": "第27回信号処理シンポジウム, 385-390, 2012",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2012",
+    "search_metadata": {
+      "id": "6850227c0a91564fa63da9ce",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/2468da498e8ce8c1/6850227c0a91564fa63da9ce.json",
+      "created_at": "2025-06-16 13:56:12 UTC",
+      "processed_at": "2025-06-16 13:56:12 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:UeHWp8X0CEIC",
+      "raw_html_file": "https://serpapi.com/searches/2468da498e8ce8c1/6850227c0a91564fa63da9ce.html",
+      "total_time_taken": 0.87
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:UeHWp8X0CEIC"
+    },
+    "citation": {
+      "title": "スパースペナルティを課した信号識別モデルによるスパース周期信号分解",
+      "link": "https://cir.nii.ac.jp/crid/1520853833090691456",
+      "authors": "佐々木崇元， 中静真， 飯國洋二",
+      "publication_date": "2012/11/28",
+      "conference": "第27回信号処理シンポジウム",
+      "pages": "385-390",
+      "description": "スパースペナルティを課した信号識別モデルによるスパース周期信号分解 | CiNii Research CiNii 国立 情報学研究所 学術情報ナビゲータ[サイニィ] 詳細へ移動 検索フォームへ移動 論文・データをさがす 大学図書館の本をさがす 日本の博士論文をさがす English 検索 タイトル 人物/団体名 所属機関 ISSN DOI 期間 ~ 本文リンク 本文リンクあり データソース JaLC IRDB Crossref DataCite NDL NDL-Digital RUDA JDCat NINJAL CiNii Articles CiNii Books CiNii Dissertations DBpedia Nikkei BP KAKEN Integbio MDR PubMed LSDB Archive 公共データカタログ ムーンショット型研究開発事業 すべて 研究データ 論文 本 博士論文 プロジェクト [2023年10月31日掲載]CiNii Dissertations及び CiNii BooksのCiNii Researchへの統合について 新「国立国会図書館サーチ」公開による CiNiiサービスへの影響について スパースペナルティを課した信号識別モデルによるスパース周期信号 分解 Web Site 佐々木崇元 中静真 飯國 洋二 書誌事項 タイトル別名 スパースペナルティ オ カシタ …",
+      "scholar_articles": [
+        {
+          "title": "スパースペナルティを課した信号識別モデルによるスパース周期信号分解",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=13081623048840837604&btnI=1&hl=en",
+          "authors": "佐々木崇元， 中静真， 飯國洋二 - 信号処理シンポジウム講演論文集, 2012",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:5Hm4f9pCi7UJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "周波数スペクトルのスパース性に基づくランダムサンプリングからの音響信号復元",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:qjMakFHDy7sC",
+    "citation_id": "vUrJ74IAAAAJ:qjMakFHDy7sC",
+    "authors": "佐々木崇元， 中静真， 飯國洋二",
+    "publication": "電子情報通信学会総合大会講演論文集 2011, 83, 2011",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2011",
+    "search_metadata": {
+      "id": "6850227d80c9639a73fcb9ef",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/91bccb083107da45/6850227d80c9639a73fcb9ef.json",
+      "created_at": "2025-06-16 13:56:13 UTC",
+      "processed_at": "2025-06-16 13:56:13 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:qjMakFHDy7sC",
+      "raw_html_file": "https://serpapi.com/searches/91bccb083107da45/6850227d80c9639a73fcb9ef.html",
+      "total_time_taken": 0.83
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:qjMakFHDy7sC"
+    },
+    "citation": {
+      "title": "周波数スペクトルのスパース性に基づくランダムサンプリングからの音響信号復元",
+      "link": "https://cir.nii.ac.jp/crid/1573387451831126528",
+      "authors": "佐々木崇元， 中静真， 飯國洋二",
+      "publication_date": "2011/2/28",
+      "conference": "電子情報通信学会総合大会講演論文集",
+      "volume": "2011",
+      "pages": "83",
+      "publisher": "一般社団法人電子情報通信学会",
+      "description": "A-4-5 周波数スペクトルのスパース性に基づくランダムサンプリングからの音響信号復元(A-4.信号 処理,一般セッション) | CiNii Research CiNii 国立情報学研究所 学術情報ナビゲータ[サイニィ] 詳細 へ移動 検索フォームへ移動 論文・データをさがす 大学図書館の本をさがす 日本の博士論文をさがす English 検索 タイトル 人物/団体名 所属機関 ISSN DOI 期間 ~ 本文リンク 本文リンクあり データ ソース JaLC IRDB Crossref DataCite NDL NDL-Digital RUDA JDCat NINJAL CiNii Articles CiNii Books CiNii Dissertations DBpedia Nikkei BP KAKEN Integbio MDR PubMed LSDB Archive 極地研ADS 極地研学術DB 公共データカタログ ムーンショット型研究開発事業 すべて 研究 データ 論文 本 博士論文 プロジェクト [2024年10月28日更新]CiNii Dissertations及びCiNii BooksのCiNii Researchへの統合について 新「国立国会図書館サーチ」公開によるCiNiiサービスへ の影響について CiNii Research自動翻訳機能(試行版)をCiNii Labsにて公開しました A-4-5 周波数…",
+      "scholar_articles": [
+        {
+          "title": "A-4-5 周波数スペクトルのスパース性に基づくランダムサンプリングからの音響信号復元 (A-4. 信号処理, 一般セッション)",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=11233005146396736651&btnI=1&hl=en",
+          "authors": "佐々木崇元， 中静真， 飯國洋二 - 電子情報通信学会総合大会講演論文集, 2011",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:i7wcZ6qm45sJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "周波数スペクトル上スパース性を用いたランダムサンプリングからの音響信号復元",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:W7OEmFMy1HYC",
+    "citation_id": "vUrJ74IAAAAJ:W7OEmFMy1HYC",
+    "authors": "佐々木崇元， 中静真， 飯國洋二",
+    "publication": "第5回関西地区信号処理とその応用研究会, 2011",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2011",
+    "search_metadata": {
+      "id": "6850227e0558c0505fc757f1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/563eeaed9a45dc7a/6850227e0558c0505fc757f1.json",
+      "created_at": "2025-06-16 13:56:14 UTC",
+      "processed_at": "2025-06-16 13:56:14 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:W7OEmFMy1HYC",
+      "raw_html_file": "https://serpapi.com/searches/563eeaed9a45dc7a/6850227e0558c0505fc757f1.html",
+      "total_time_taken": 0.75
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:W7OEmFMy1HYC"
+    },
+    "citation": {
+      "title": "周波数スペクトル上スパース性を用いたランダムサンプリングからの音響信号復元",
+      "authors": "佐々木崇元， 中静真， 飯國洋二",
+      "publication_date": "2011",
+      "conference": "第5回関西地区信号処理とその応用研究会"
+    }
+  },
+  {
+    "title": "Audio signal recovery from random sampling with sparsity prior on frequency spectrum",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:Y0pCki6q_DkC",
+    "citation_id": "vUrJ74IAAAAJ:Y0pCki6q_DkC",
+    "authors": "T Sasaki, M Nakashizuka",
+    "publication": "The 26th International Technical Conference on Circuits/Systems, Computers …, 2011",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2011",
+    "search_metadata": {
+      "id": "6850227f3882c56cab8787e8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/36ca13c98c12d5ff/6850227f3882c56cab8787e8.json",
+      "created_at": "2025-06-16 13:56:15 UTC",
+      "processed_at": "2025-06-16 13:56:15 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:Y0pCki6q_DkC",
+      "raw_html_file": "https://serpapi.com/searches/36ca13c98c12d5ff/6850227f3882c56cab8787e8.html",
+      "total_time_taken": 0.5
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:Y0pCki6q_DkC"
+    },
+    "citation": {
+      "title": "Audio signal recovery from random sampling with sparsity prior on frequency spectrum",
+      "authors": "Takayuki Sasaki, Makoto Nakashizuka",
+      "publication_date": "2011",
+      "conference": "The 26th International Technical Conference on Circuits/Systems, Computers and Communications",
+      "volume": "1",
+      "pages": "447-450",
+      "scholar_articles": [
+        {
+          "title": "Audio signal recovery from random sampling with sparsity prior on frequency spectrum",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=17356194981873895948&btnI=1&hl=en",
+          "authors": "中静真 - Proceedings of the 26th International Technical …, 2011",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:DMoCA2GX3fAJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  }
+]
