@@ -5,12 +5,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 
 # APIキーの取得を場合分け
-if os.path.exists(".env"):
-    load_dotenv()  # .envファイルをロードして環境変数を設定
-    API_KEY = os.getenv("API_KEY")
-else:
-    API_KEY = os.environ.get("API_KEY")
-
+API_KEY = os.getenv("API_KEY")  # GitHub Actionsで渡される環境変数を使用
 if not API_KEY:
     raise ValueError("API_KEYが環境変数から取得できません。")
 
@@ -45,15 +40,15 @@ while True:
             params["start"] = next_page_token
         search = GoogleSearch(params)
         results = search.get_dict()
-        fetched_articles = results.get("articles", [])
-        if not fetched_articles:
-            break
-        L2.extend(fetched_articles)
-        next_page_token = results.get("next_page_token")
-        if not next_page_token:
-            break
     except Exception as e:
         print(f"APIエラー: {e}")
+        continue  # 次の処理に進む
+    fetched_articles = results.get("articles", [])
+    if not fetched_articles:
+        break
+    L2.extend(fetched_articles)
+    next_page_token = results.get("next_page_token")
+    if not next_page_token:
         break
 
 # (2) L1とL2を比較して、タイトルの追加を確認、追加分をL3とする
@@ -173,6 +168,7 @@ international_journal_html = generate_html_with_citation(classified_articles["in
 
 with open("templates/domestic_conference.html", "w", encoding="utf-8") as f:
     f.write(domestic_conference_html)
+print("domestic_conference.htmlを生成しました。")
 
 with open("templates/domestic_journal.html", "w", encoding="utf-8") as f:
     f.write(domestic_journal_html)
