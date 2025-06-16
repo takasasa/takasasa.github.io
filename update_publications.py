@@ -117,6 +117,8 @@ classified_articles = {"domestic_conference": [], "domestic_journal": [], "inter
 for article in L1:
     classified_article = classify_article(article)
     key = f"{classified_article['category']}_{classified_article['type']}"
+    if key not in classified_articles:
+        classified_articles[key] = []
     classified_articles[key].append(classified_article)
 
 def generate_html_with_citation(articles):
