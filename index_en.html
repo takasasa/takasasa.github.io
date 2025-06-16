@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Takayuki Sasaki</title>
+    <link rel="stylesheet" href="./static/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Update date and Japanese version link -->
+        <div id="header" style="display: flex; justify-content: space-between; align-items: center;">
+            <div id="updateDate" style="text-align: left;">Loading update date...</div>
+            <div id="japaneseLink" style="text-align: right;"><a href="./index.html">日本語版</a></div>
+        </div>
+
+        <h1>Takayuki Sasaki</h1>
+        <h2>Research Engineer, NTT Computer and Data Science Laboratories</h2>
+        <h2>Doctoral Student, Institute of Science Tokyo</h2>
+
+        <!-- Profile picture -->
+        <img src="./static/face.jpg" alt="Photo of Takayuki Sasaki">
+
+        <h3>Contents</h3>
+        <ul style="text-align: center; list-style: none; padding: 0;">
+            <li><a href="#self-introduction">Self Introduction</a></li>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="#research">Research</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#work-history">Work History</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#awards">Awards</a></li>
+            <li><a href="#publications">Publications</a></li>
+        </ul>
+
+        <div class="content-box">
+            <h2 id="self-introduction">1. Self Introduction</h2>
+            <p>Born in Osaka in 1987, lived in Osaka until completing a master's degree.</p>
+            <p>Participated in the summer internship at NTT Communication Science Laboratories (Atsugi, Kanagawa), admired the free atmosphere and high research level, and decided to join NTT.</p>
+            <p>After joining NTT, engaged in mobile phone sales training at NTT Docomo Kyushu (Fukuoka City, Fukuoka Prefecture) for six months. Later started full-scale research activities at NTT Yokosuka Research and Development Center (Yokosuka City, Kanagawa Prefecture).</p>
+            <p>Since April 2023, a doctoral student at the Institute of Science Tokyo (formerly Tokyo Institute of Technology). Member of IEEE and IEICE.</p>
+        </div>
+
+        <div class="content-box">
+            <h2 id="hobbies">2. Hobbies</h2>
+            <ul>
+                <li>Mathematics</li>
+                <li>360-degree photography</li>
+                <li>Baritone saxophone performance / Musical appreciation</li>
+                <li>Spice curry</li>
+            </ul>
+        </div>
+
+        <div class="content-box">
+            <h2 id="research">3. Research</h2>
+            <p>Under construction</p>
+        </div>
+
+        <div class="content-box">
+            <h2 id="education">4. Education</h2>
+            <ul>
+                <li>Master of Engineering, Graduate School of Engineering Science, Osaka University, 2011 - 2013<br>Specialization: Signal Processing, Supervisor: Makoto Nakashizuka</li>
+                <li>Bachelor of Engineering, Faculty of Engineering Science, Osaka University, 2006 - 2011</li>
+            </ul>
+        </div>
+
+        <div class="content-box">
+            <h2 id="work-history">5. Work History</h2>
+            <ul>
+                <li>Research Engineer, NTT, 2013 -</li>
+                <li>Teaching Assistant, Osaka University, 2012 - 2013</li>
+                <li>Summer Internship, NTT, 2011</li>
+                <li>3D Printer Operation / Website Management, Osaka University, 2007 - 2008</li>
+            </ul>
+        </div>
+
+        <div class="content-box">
+            <h2 id="skills">6. Skills</h2>
+            <p>Specialized in "Signal Processing" and proficient in the following:</p>
+            <ul>
+                <li>Mathematical Optimization</li>
+                <li>Sparse Modeling</li>
+                <li>Image Processing</li>
+                <li>Machine Learning</li>
+                <li>Video Encoding</li>
+                <li>Numerical Computation</li>
+                <li>Programming (MATLAB/Python/C++)</li>
+                <li>Texture Information Processing</li>
+            </ul>
+        </div>
+
+        <div class="content-box">
+            <h2 id="awards">7. Awards</h2>
+            <ul>
+                <li>Research Encouragement Award, NTT Service Innovation Laboratory Group, February 2025</li>
+                <li>Signal Processing Young Researcher's Award, SIP Symposium 2022, November 2023</li>
+                <li>Best Paper Award, FIT2017, September 2018</li>
+                <li>Young Researcher's Award, FIT2016, September 2017</li>
+                <li>Best Poster Award, PCSJ2016, December 2016</li>
+                <li>Best Poster Award, PCSJ2015, December 2015</li>
+                <li>Encouragement Award, FIT2015, September 2015</li>
+                <li>Repayment Exemption for Outstanding Achievement (Half-exemption), JASSO, May 2013</li>
+            </ul>
+        </div>
+
+        <div class="content-box">
+            <h2 id="publications">8. Publications</h2>
+            <h3>Journals</h3>
+            <iframe id="internationalJournalIframe" src="./templates/international_journal.html" width="100%" style="height: 0;"></iframe>
+
+            <h3>International Conferences</h3>
+            <iframe id="internationalConferenceIframe" src="./templates/international_conference.html" width="100%" style="height: 0;"></iframe>
+
+            <h3>Domestic Journals</h3>
+            <iframe id="domesticJournalIframe" src="./templates/domestic_journal.html" width="100%" style="height: 0;"></iframe>
+
+            <h3>Domestic Conferences</h3>
+            <iframe id="domesticConferenceIframe" src="./templates/domestic_conference.html" width="100%" style="height: 0;"></iframe>
+        </div>
+        <!-- MathJax settings -->
+        <script>
+            MathJax = {
+                tex: {
+                    inlineMath: [['$', '$'], ['\\(', '\\)']],
+                    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+                },
+                options: {
+                    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+                }
+            };
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script type="module">
+            import { initializeIframe } from './static/iframeHandler.js';
+            document.addEventListener("DOMContentLoaded", () => {
+                initializeIframe('internationalJournalIframe');
+                initializeIframe('internationalConferenceIframe');
+                initializeIframe('domesticJournalIframe');
+                initializeIframe('domesticConferenceIframe');
+            });
+        </script>
+        <script>
+            // Load and display update date
+            fetch('./data/update_date.txt')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('updateDate').textContent = `Update Date: ${data}`;
+                })
+                .catch(error => console.error('Failed to load update date:', error));
+        </script>
+    </div>
+</body>
+</html>

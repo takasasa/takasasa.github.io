@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* PCでは中央寄せ */
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.content-box, .education-box {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fefefe;
+}
+
+.content-box ul {
+    list-style-type: disc; /* 行頭に「・」を付ける */
+    padding-left: 1.5rem; /* インデントを追加 */
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #444;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 0.5rem 0;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 1rem auto;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 50%; /* 現在の半分のサイズに変更 */
+    height: auto; /* アスペクト比を維持 */
+}
+
+iframe {
+    margin: 1rem 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+#updateDate {
+    text-align: center;
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 100%; /* スマホでは幅いっぱい */
+        margin: 0;
+        padding: 0.5rem;
+        box-shadow: none;
+        border-radius: 0;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+    iframe {
+        width: 100%;
+    }
+}
