@@ -23,6 +23,7 @@ jobs:
       - name: Run publication updater
         env:
           API_KEY: ${{ secrets.API_KEY }}
+          GA_MEASUREMENT_ID: ${{ secrets.GA_MEASUREMENT_ID }}
         run: python update_publications.py
 
       - name: Commit and push changes
