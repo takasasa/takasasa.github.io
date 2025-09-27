@@ -94,6 +94,62 @@
     }
   },
   {
+    "title": "Fast-Parallel Singular Value Thresholding for Low-rank Analysis with Small Columns Matrices",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:KlAtU1dfN6UC",
+    "citation_id": "vUrJ74IAAAAJ:KlAtU1dfN6UC",
+    "authors": "T Sasaki, R Tanida, M Kitahara, Y Hiwasaki, H Kimata, Y Bandoh",
+    "publication": "IEEE Access 13, 165481-165495, 2025",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2025",
+    "search_metadata": {
+      "id": "68d72f1fa26f565a16dd269f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/913421d2ec2db6a7/68d72f1fa26f565a16dd269f.json",
+      "created_at": "2025-09-27 00:26:07 UTC",
+      "processed_at": "2025-09-27 00:26:07 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:KlAtU1dfN6UC",
+      "raw_html_file": "https://serpapi.com/searches/913421d2ec2db6a7/68d72f1fa26f565a16dd269f.html",
+      "total_time_taken": 5.7
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:KlAtU1dfN6UC"
+    },
+    "citation": {
+      "title": "Fast-Parallel Singular Value Thresholding for Low-rank Analysis with Small Columns Matrices",
+      "link": "https://ieeexplore.ieee.org/abstract/document/11173648/",
+      "resources": [
+        {
+          "title": "from ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11173648.pdf"
+        }
+      ],
+      "authors": "Takayuki Sasaki, Ryuichi Tanida, Masaki Kitahara, Yusuke Hiwasaki, Hideaki Kimata, Yukihiro Bandoh",
+      "publication_date": "2025/9/19",
+      "journal": "IEEE Access",
+      "volume": "13",
+      "pages": "165481-165495",
+      "publisher": "IEEE",
+      "description": "This paper proposes a fast-parallel method for singular value thresholding, aimed at low-rank analysis of many small matrices. In low-rank analysis, the problem of regularizing the nuclear norm, defined as the sum of singular values, is typically solved by iteratively applying singular value thresholding. However, this process often requires a long run-time due to the computational cost of singular value decomposition. To address this issue, we provide a method that is computationally inexpensive and can be executed in parallel. The core of our approach lies in the discovery of geometric properties of the nuclear norm, leading to a computational process that is fundamentally different from conventional methods. Our method is fast because it does not require singular value decomposition, which has been a bottleneck in terms of computational complexity and parallelism. We design the computation method for two …",
+      "scholar_articles": [
+        {
+          "title": "Fast-Parallel Singular Value Thresholding for Low-rank Analysis with Small Columns Matrices",
+          "link": "https://scholar.google.com/scholar?oi=bibs&cluster=12221906963673915955&btnI=1&hl=en",
+          "authors": "T Sasaki, R Tanida, M Kitahara, Y Hiwasaki, H Kimata… - IEEE Access, 2025",
+          "related_pages_link": {
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&q=related:MyKoB6HvnKkJ:scholar.google.com/"
+          }
+        }
+      ]
+    }
+  },
+  {
     "title": "Sparse Regularization Based on Reverse Ordered Weighted L1-Norm and Its Application to Edge-Preserving Smoothing",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:0EnyYjriUFMC",
     "citation_id": "vUrJ74IAAAAJ:0EnyYjriUFMC",
