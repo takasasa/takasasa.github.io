@@ -150,6 +150,112 @@
     }
   },
   {
+    "title": "ハイパースペクトル撮像・伝送のための圧縮センシングと微分可能符号化の融合",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:YOwf2qJgpHMC",
+    "citation_id": "vUrJ74IAAAAJ:YOwf2qJgpHMC",
+    "authors": "佐々木崇元， 曽我部陽光， 早瀬和也， 北原正樹， 坂東幸浩",
+    "publication": "電子情報通信学会技術研究報告; 信学技報 125 (304, IE2025-44), 19-24, 2025",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2025",
+    "search_metadata": {
+      "id": "6943bf1a71ff8ca3af8ee8f5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e3d1ebe15512eae6/6943bf1a71ff8ca3af8ee8f5.json",
+      "created_at": "2025-12-18 08:45:14 UTC",
+      "processed_at": "2025-12-18 08:45:14 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:YOwf2qJgpHMC",
+      "raw_html_file": "https://serpapi.com/searches/e3d1ebe15512eae6/6943bf1a71ff8ca3af8ee8f5.html",
+      "total_time_taken": 2.19
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:YOwf2qJgpHMC"
+    },
+    "citation": {
+      "title": "ハイパースペクトル撮像・伝送のための圧縮センシングと微分可能符号化の融合",
+      "authors": "佐々木崇元， 曽我部陽光， 早瀬和也， 北原正樹， 坂東幸浩",
+      "publication_date": "2025/12/11",
+      "conference": "電子情報通信学会技術研究報告; 信学技報",
+      "volume": "125",
+      "issue": "304, IE2025-44",
+      "pages": "19-24"
+    }
+  },
+  {
+    "title": "Reverse Sorted Sum of Convex 関数正則化問題の Difference-of-Convex 最適化手法の検討",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:Zph67rFs4hoC",
+    "citation_id": "vUrJ74IAAAAJ:Zph67rFs4hoC",
+    "authors": "佐々木崇元， 早瀬和也， 北原正樹",
+    "publication": "第40回 信号処理シンポジウム講演論文集, 2025",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2025",
+    "search_metadata": {
+      "id": "6943bf1d3047f3634a1715bc",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/bca6323cce3950a9/6943bf1d3047f3634a1715bc.json",
+      "created_at": "2025-12-18 08:45:17 UTC",
+      "processed_at": "2025-12-18 08:45:17 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:Zph67rFs4hoC",
+      "raw_html_file": "https://serpapi.com/searches/bca6323cce3950a9/6943bf1d3047f3634a1715bc.html",
+      "total_time_taken": 4.74
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:Zph67rFs4hoC"
+    },
+    "citation": {
+      "title": "Reverse Sorted Sum of Convex 関数正則化問題の Difference-of-Convex 最適化手法の検討",
+      "authors": "佐々木崇元， 早瀬和也， 北原正樹",
+      "publication_date": "2025/11/25",
+      "conference": "第40回 信号処理シンポジウム講演論文集"
+    }
+  },
+  {
+    "title": "深層展開によるハイパースペクトル圧縮撮像の符号化指向再構成",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:ULOm3_A8WrAC",
+    "citation_id": "vUrJ74IAAAAJ:ULOm3_A8WrAC",
+    "authors": "佐々木崇元， 曽我部陽光， 早瀬和也， 北原正樹， 坂東幸浩",
+    "publication": "2025年度画像符号化シンポジウム（PCSJ 2025） 2025年度映像メディア処理シンポジウム …, 2025",
+    "cited_by": {
+      "value": null
+    },
+    "year": "2025",
+    "search_metadata": {
+      "id": "6943bf21f7e996680c6ddbfc",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e86e68c76bd59c66/6943bf21f7e996680c6ddbfc.json",
+      "created_at": "2025-12-18 08:45:21 UTC",
+      "processed_at": "2025-12-18 08:45:21 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=vUrJ74IAAAAJ&hl=en&view_op=view_citation&citation_for_view=vUrJ74IAAAAJ:ULOm3_A8WrAC",
+      "raw_html_file": "https://serpapi.com/searches/e86e68c76bd59c66/6943bf21f7e996680c6ddbfc.html",
+      "total_time_taken": 2.8
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "vUrJ74IAAAAJ",
+      "hl": "en",
+      "view_op": "view_citation",
+      "citation_id": "vUrJ74IAAAAJ:ULOm3_A8WrAC"
+    },
+    "citation": {
+      "title": "深層展開によるハイパースペクトル圧縮撮像の符号化指向再構成",
+      "authors": "佐々木崇元， 曽我部陽光， 早瀬和也， 北原正樹， 坂東幸浩",
+      "publication_date": "2025/11/17",
+      "conference": "2025年度画像符号化シンポジウム（PCSJ 2025） 2025年度映像メディア処理シンポジウム（IMPS 2025）",
+      "pages": "163-164"
+    }
+  },
+  {
     "title": "Sparse Regularization Based on Reverse Ordered Weighted L1-Norm and Its Application to Edge-Preserving Smoothing",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=vUrJ74IAAAAJ&pagesize=100&citation_for_view=vUrJ74IAAAAJ:0EnyYjriUFMC",
     "citation_id": "vUrJ74IAAAAJ:0EnyYjriUFMC",
